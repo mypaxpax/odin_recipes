@@ -1,0 +1,25 @@
+body {
+    background-color: azure;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width:50%;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    color:red;
+}
+
+ul {
+    background-color: rgb(226, 226, 226);
+    text-align: center;
+    padding:1px;
+
+
+}
+
+li {
+    display:contents;
+ 
+
+}
