@@ -10,7 +10,7 @@ h1 {
     color:red;
 }
 
-ul {
+.ul-style {
     background-color: rgb(226, 226, 226);
     text-align: center;
     padding:1px;
@@ -18,8 +18,21 @@ ul {
 
 }
 
-li {
+.li-style {
     display:contents;
  
 
+}
+
+.link {
+    color: black;
+    font-weight: bold;
+
+
+}
+
+img {
+    width:50%;
+    height:50%;
+       
 }
