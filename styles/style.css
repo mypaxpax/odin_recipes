@@ -13,7 +13,7 @@ h1 {
 .ul-style {
     background-color: rgb(226, 226, 226);
     text-align: center;
-    padding:1px;
+    padding:20px;
 
 
 }
@@ -35,4 +35,22 @@ img {
     width:50%;
     height:50%;
        
+}
+
+div {
+    color:aliceblue;
+    padding: 15px;
+    margin-bottom: 10px;
+
+}
+
+.header {
+    background-color: steelblue;
+    text-align: center;
+
+}
+
+.description {
+    background-color: #548CA8;
+    font-weight:500;
 }
